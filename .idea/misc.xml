@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/drawable/gradient_background.xml" value="0.2703125" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/drawable/round2_button.xml" value="0.2703125" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/drawable/round3_button.xml" value="0.2703125" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/drawable/round_button.xml" value="0.2703125" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/drawable/round_layout.xml" value="0.21197916666666666" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.18203551912568305" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw600dp/customer_info.xml" value="0.2" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw600dp/customer_list_item.xml" value="0.536" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw600dp/customers.xml" value="0.18203551912568305" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw600dp/layout_dialog.xml" value="0.18203551912568305" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw600dp/transcations_list_item.xml" value="0.18203551912568305" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw600dp/transermoney.xml" value="0.146484375" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw600dp/transfermoney.xml" value="0.18203551912568305" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw600dp/transsactions.xml" value="0.18203551912568305" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw720dp/activity_main.xml" value="0.146484375" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw720dp/customer_info.xml" value="0.176" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw720dp/customer_list_item.xml" value="0.176" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw720dp/customers.xml" value="0.146484375" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw720dp/layout_dialog.xml" value="0.146484375" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw720dp/transcations_list_item.xml" value="0.146484375" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw720dp/transermoney.xml" value="0.146484375" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout-sw720dp/transsactions.xml" value="0.146484375" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout/customer_info.xml" value="0.2341485507246377" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout/customer_list_item.xml" value="0.19583333333333333" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout/customers.xml" value="0.19583333333333333" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout/layout_dialog.xml" value="0.2341485507246377" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout/test.xml" value="0.2368659420289855" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout/transcations_list_item.xml" value="0.15625" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout/transermoney.xml" value="0.2341485507246377" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/layout/transsactions.xml" value="0.15625" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Koky/Graduated 2021/GRIP Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
